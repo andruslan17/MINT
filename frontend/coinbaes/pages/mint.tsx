@@ -19,7 +19,7 @@ import ConnectWallet from "@components/web3/ConnectWallet";
 
 const CONTRACT_ADDRESS =
   process.env.NEXT_PUBLIC_CONTRACT_ADDRESS ??
-  "0xBa9FFf60ead181805369F92e032D898227937b2B";
+  "0x1A2746b90562611941809204bF4aC3dc78bc1093";
 
 const BLOCK_EXPLORER =
   process.env.NEXT_PUBLIC_BLOCK_EXPLORER_URL ?? "https://goerli.etherscan.io";
