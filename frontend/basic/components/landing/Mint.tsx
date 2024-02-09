@@ -47,7 +47,7 @@ const Mint: NextPage = () => {
     {
       addressOrName: CONTRACT_ADDRESS
         ? CONTRACT_ADDRESS
-        : "0xCa4E3b3f98cCA9e801f88F13d1BfE68176a03dFA",
+        : "0x1A2746b90562611941809204bF4aC3dc78bc1093",
       contractInterface: myNFT.abi,
     },
     "mintPublicSale",
